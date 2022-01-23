@@ -1,4 +1,4 @@
-<h3>Terraform Code to create EKS Cluster, Owrker nodes and all required IAM Roles and Network services like VPC, Subnets, NAT Gateway, etc.</h3>
+<h3>Terraform Code to create EKS Cluster, Worker nodes and all required IAM Roles and Network services like VPC, Subnets, NAT Gateway, etc.</h3>
 
 <br>
 
